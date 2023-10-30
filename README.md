@@ -1,3 +1,7 @@
+# Project Pitch
+
+An app allows users to explore a collection of movies, watch trailers, and submit reviews instantly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

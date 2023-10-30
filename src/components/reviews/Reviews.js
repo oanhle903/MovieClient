@@ -62,7 +62,7 @@ const Reviews = ({getMovieData, movie, reviews, setReviews}) => {
             </>
           }
           {
-            reviews?.map((r) => {
+            reviews?.map((r,) => {
               return (
                 <>
                   <Row>
