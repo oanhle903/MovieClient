@@ -2,6 +2,11 @@
 
 An app allows users to explore a collection of movies, watch trailers, and submit reviews instantly.
 
+## Features
+
+https://github.com/oanhle903/MovieClient/assets/68570059/93042ec7-0112-4d86-9faa-0f878a5eabc2
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
